@@ -2,7 +2,7 @@
 
 Hello everyone! 👋 
 
-I'm Michela, a Data Science student passionate about ML, RL and NLP. I love to learn new stuff and to improve my coding skills in my free time. <img src="https://media.itsnicethat.com/original_images/giphy-2021-gifs-and-clips-animation-itsnicethat-02.gif" width="150" height="150">
+I'm Michela, a Data Science student passionate about ML, RL and NLP. I love to learn new stuff and to improve my coding skills in my free time. 
 
 Currently, I am working on my Image Classifier project and I am planning to start one on Sentiment Analysis. Stay tuned! 🎵
 
@@ -11,3 +11,4 @@ Currently, I am working on my Image Classifier project and I am planning to star
 Feel free to reach out to me if you have any questions, suggestions, or just want to chat!
 
 - LinkedIn: *https://it.linkedin.com/in/michela-mazzaglia*
+  <img src="https://media.itsnicethat.com/original_images/giphy-2021-gifs-and-clips-animation-itsnicethat-02.gif" width="100" height="100">
