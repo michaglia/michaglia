@@ -1,6 +1,8 @@
 ## About Me
 
 Hello everyone! 👋 I'm Michela, a Data Science student passionate about ML, RL and NLP. I love to learn new stuff and to improve my coding skills in my free time.
+
+
 ![Look](https://media0.giphy.com/media/qo4T3YNcaT2IMGZ8tY/200.gif?cid=82a1493bh2bmefs4jamz0nbhzzm726g8ruc14sp8z0n26wyw&ep=v1_gifs_gifId&rid=200.gif&ct=s)
 
 
