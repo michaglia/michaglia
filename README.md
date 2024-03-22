@@ -2,7 +2,8 @@
 
 Hello everyone! 👋 
 
-I'm Michela, a Data Science student passionate about ML, RL and NLP. I love to learn new stuff and to improve my coding skills in my free time. 
+I'm Michela, a Data Science student passionate about ML, RL and NLP. 
+I love to learn new stuff and to improve my coding skills in my free time. 
 
 Currently, I am working on my Image Classifier project and I am planning to start one on Sentiment Analysis. Stay tuned! 🎵
 
