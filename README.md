@@ -5,7 +5,7 @@ Hello everyone! 👋
 I'm Michela, a Data Science student passionate about ML, RL and NLP.
 I love to learn new stuff and to improve my coding skills in my free time. 
 
-Currently, I am working on my thesis and I plan to develop a RL project soon. Stay tuned! 🎵
+Check out my new project on Reinforcement Learning and I plan to publish my research thesis soon! Stay tuned! 🎵
 
 #### Contact Me
 
